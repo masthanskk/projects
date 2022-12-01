@@ -4,3 +4,10 @@ CREATE TABLE students (
     city VARCHAR(50),
     Details VARCHAR(200)
 );
+
+CREATE TABLE cities (
+    ID INT,
+    Name VARCHAR(100),
+    City VARCHAR(50),
+    Details VARCHAR(200)
+);
