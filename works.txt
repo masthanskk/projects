@@ -3,3 +3,4 @@ SELECT * FROM students
  Shami  Ongole
  Vinod  Bangalore
  Ravu   Hyderabad
+ Varu   Ongole
