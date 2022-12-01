@@ -5,3 +5,5 @@ SELECT * FROM students
  Ravu   Hyderabad
  Varu   Ongole
  Hari   S.konda
+ Varun  Ongole
+ sid    ongole
