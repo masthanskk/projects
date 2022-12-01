@@ -4,3 +4,4 @@ SELECT * FROM students
  Vinod  Bangalore
  Ravu   Hyderabad
  Varu   Ongole
+ Hari   S.konda
